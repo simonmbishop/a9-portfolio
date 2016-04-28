@@ -1,0 +1,47 @@
+body {
+	background-color: #ffdd99;
+}
+
+.header {
+	text-align: center;
+	font-family: 'Fugaz One', cursive;
+	font-size: 50px;
+}
+
+.row2 {
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+  	line-height: 1;
+	font-size: 20px;
+}
+
+.row3 {
+	text-align: center;
+	margin-top: 50px;
+}
+
+.row {
+	margin-top: 40px;
+	text-align: center;
+}
+
+
+
+.form2 {
+	display: none;
+}
+
+.project img {
+	width: 100%;
+}
+
+.project img:hover {
+	transform: scale(1.1);
+	transition: all .2s ease-in-out;
+	opacity: 0.4;
+	filter: alpha(opacity=40);
+}
+
+select {
+	display: block;
+}
